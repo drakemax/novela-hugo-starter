@@ -33,7 +33,7 @@ sections:
   new_doc_ext: yaml
 upload_dir: static/images
 public_path: "/images"
-front_matter_path: ''
+front_matter_path: C:\Users\drake\Pictures\Saved Pictures
 use_front_matter_path: true
 file_template: ":filename:"
 build:
