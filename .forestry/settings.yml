@@ -31,10 +31,10 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yaml
-upload_dir: static/images
-public_path: "/images"
-front_matter_path: C:\Users\drake\Pictures\Saved Pictures
-use_front_matter_path: true
+upload_dir: ''
+public_path: https://res.cloudinary.com/dx5p1swkg/image/upload/v1590206092/HugoTest
+front_matter_path: ''
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
