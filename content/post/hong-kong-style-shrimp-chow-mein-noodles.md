@@ -1,8 +1,8 @@
 +++
-authors = ["max drake"]
+authors = []
 date = 2020-05-22T12:00:00Z
 excerpt = "Recipe for Hong Kong Shrimp , veges and noodles"
-hero = "/dsc00907.JPG"
+hero = "https://res.cloudinary.com/dx5p1swkg/image/upload/v1590206092/HugoTest/v1590206092/HugoTest/DSC00904_cud8v6.jpg"
 timeToRead = 1
 title = "Hong Kong Style Shrimp Chow Mein Noodles"
 
